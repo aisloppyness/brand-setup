@@ -48,9 +48,9 @@ Verificatie bij Google lukt pas zodra Yourhosting de domeinregistratie heeft afg
 ## Persoonlijk LinkedIn-profiel (Ajay Ganeshie)
 
 - URL: linkedin.com/in/ajayganeshie
-- Kop: *Ondernemer | Mede-eigenaar De Palmboom | Oprichter AI Sloppyness | Open-source AI-bijdrager (llama.cpp)*
+- Kop: *Ondernemer | Mede-eigenaar De Palmboom | Oprichter AI Sloppyness | Experimenteert met lokale AI*
 - Woonplaats: Rotterdam
-- Info-tekst over De Palmboom, llama.cpp en AI Sloppyness
+- Info-tekst over De Palmboom, experimenteren met AI op eigen hardware (geen programmeur) en AI Sloppyness
 - Ervaring:
   - Mede-eigenaar, De Palmboom vof — sinds maart 2008 (Surinaams restaurant in Rotterdam, authentieke recepten van oma, roti als specialiteit)
   - Oprichter, AI Sloppyness — sinds november 2026
@@ -62,7 +62,7 @@ Verificatie bij Google lukt pas zodra Yourhosting de domeinregistratie heeft afg
 3. **Alle accounts omzetten** naar het zakelijke mailadres. YouTube: ajay@aisloppyness.com toevoegen als eigenaar van het merkkanaal.
 4. **Bluesky-handle** omzetten naar @aisloppyness.com (DNS-record, zodra het domein werkt).
 5. **Logo en profielfoto** maken en overal dezelfde foto en bio zetten.
-6. **LinkedIn**: profielfoto en banner, llama.cpp-ervaring toevoegen, connecties uitbreiden, daarna bedrijfspagina maken.
+6. **LinkedIn**: profielfoto en banner, connecties uitbreiden, daarna bedrijfspagina maken.
 7. **Facebook-pagina** "AI Sloppyness" aanmaken.
 8. **Eerste video's**: korte AI-nieuws-shorts voor TikTok, Instagram Reels en YouTube Shorts.
 
@@ -74,4 +74,4 @@ Korte video's (30–60 sec) over AI-nieuws, eerlijk en zonder hype. Vaste rubrie
 - **Werkt het echt?** — een AI-tool testen in de eigen zaak
 - **AI slop van de week** — mislukte of slechte AI-content
 
-Het verhaal: een ondernemer met een Surinaams restaurant in Rotterdam die zelf aan AI bouwt (llama.cpp).
+Het verhaal: een ondernemer met een Surinaams restaurant in Rotterdam, geen programmeur, die zelf met AI experimenteert op eigen hardware.
